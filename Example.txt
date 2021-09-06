@@ -1,1 +1,2 @@
 Example text from your Friend!
+I expected add this string here!
