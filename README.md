@@ -5,4 +5,4 @@
 В папке *Stepik_Selenium_Tasks* лежат задачи из курса
 Здесь оставлю логотип:
 
-![alt-текст](https://github.com/ZhuraTown/stepik_auto_tests_course_original/images/stepik.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/ZhuraTown/stepik_auto_tests_course_original/tree/main/images/stepik.png "Текст заголовка логотипа 1")
